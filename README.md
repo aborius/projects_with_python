@@ -11,4 +11,6 @@ Di seguito è il processo che possiamo seguire per l'Analisi delle Performance d
 - Utilizzare tecniche di visualizzazione dei dati per presentare il confronto in modo efficace.
 - Applicare metodi statistici per identificare modelli o relazioni tra le azioni confrontate.
 - Confrontare le performance delle azioni o degli strumenti finanziari selezionati rispetto a benchmark rilevanti, come gli indici di mercato come l'S&P 500.
+  
 Il codice che è stato implementato confronta i prezzi delle azioni di Apple, di Google e di Microsoft.
+
